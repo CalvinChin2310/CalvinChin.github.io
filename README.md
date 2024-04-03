@@ -1,4 +1,4 @@
-# Chin Wei Chung - Data Science Graduate
+# Data Science Graduate
 
 Welcome to my GitHub portfolio! I am passionate about leveraging data analysis and IT skills to drive insights and solve complex problems.
 
