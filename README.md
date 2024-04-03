@@ -65,6 +65,8 @@ With a background in Commerce and Data Science, I am eager to transition into IT
     
 ## Projects
 
+*List your projects here, with brief descriptions if desired.*
+
 ## Contact
 
 - **LinkedIn:** [Chin Wei Chung](https://www.linkedin.com/in/chinweichung)
