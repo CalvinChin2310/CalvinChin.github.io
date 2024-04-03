@@ -62,6 +62,8 @@ With a background in Commerce and Data Science, I am eager to transition into IT
   One Stop Pak, Christchurch, New Zealand
   *01/2024 - 03/2024*
   - Utilized inventory management systems.
+    
+## Projects
 
 ## Contact
 
