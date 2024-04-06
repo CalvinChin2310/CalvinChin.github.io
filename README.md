@@ -25,6 +25,9 @@ With a background in Commerce and Data Science, I am eager to transition into IT
 - Time Management
 - Adaptability
 - Communication
+- Problem-Solving Skills,
+- Critical Thinking,
+- Creativity 
 
 ## Education
 
