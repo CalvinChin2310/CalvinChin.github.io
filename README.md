@@ -55,17 +55,21 @@ With a background in Commerce and Data Science, I am eager to transition into IT
   *12/2020 - 12/2022*
   - Managed inventory and trained team members.
   - Ensured quality control of served drinks.
-  - 
+  - Conducted training sessions for team members, enhancing their skills and productivity.
 
 - **Grocery Assistant**
   Pak n Save, Christchurch, New Zealand
   *07/2023 - 03/2024*
   - Assisted customers and managed inventory.
+  - Provided exceptional customer service, addressing inquiries and assisting with product selection.
+  - Collaborated with team members to streamline operations and improve overall efficiency.
 
 - **Warehouse Assistant/Delivery Driver**
   One Stop Pak, Christchurch, New Zealand
   *01/2024 - 03/2024*
-  - Utilized inventory management systems.
+  - Utilized advanced inventory management systems to track stock levels accurately.
+  - Demonstrated strong attention to detail and problem-solving abilities in resolving inventory discrepancies.
+  - Maintained a high level of accuracy in order fulfillment and delivery processes.
     
 ## Projects
 
