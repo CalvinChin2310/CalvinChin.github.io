@@ -69,4 +69,11 @@ With a background in Commerce and Data Science, I am eager to transition into IT
     
 ## Projects
 
-*List your projects here, with brief descriptions if desired.*
+**Product Sales Analysis**
+- Conducted product sales analysis utilizing data cleaning, augmentation, and exploratory data analysis techniques to extract actionable insights for optimizing sales strategies and maximizing revenue.
+
+**Happiness Data Analysis**
+- Conducted data analysis on the World Happiness Report 2021 dataset, exploring various research questions and generating valuable insights into global happiness trends and influencing factors.
+
+**New Zealand Police Data Analysis**
+- Investigated trends in theft-related offenses in New Zealand using data from the New Zealand police website, contributing to the understanding of crime dynamics in the country.
