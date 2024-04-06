@@ -55,6 +55,7 @@ With a background in Commerce and Data Science, I am eager to transition into IT
   *12/2020 - 12/2022*
   - Managed inventory and trained team members.
   - Ensured quality control of served drinks.
+  - 
 
 - **Grocery Assistant**
   Pak n Save, Christchurch, New Zealand
